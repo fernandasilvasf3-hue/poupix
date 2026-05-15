@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Poupix",
+    "slug": "poupix",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#6366f1"
+      }
+    },
+    "web": {},
+    "icon": "./assets/icon.png"
+  }
+}
