@@ -180,11 +180,11 @@ app-despesas/
 
 | Membro | Componentes Desenvolvidos |
 |--------|--------------------------|
-| [Nome 1] | Autenticação, Firebase Config |
-| [Nome 2] | Dashboard, Listagem de Despesas |
-| [Nome 3] | Adicionar/Editar Despesas |
-| [Nome 4] | Categorias, Relatórios |
-| [Nome 5] | Configurações, UI/UX |
+| [Nicolas] | Autenticação, Firebase Config |
+| [Vinicius+Nicolas] | Dashboard, Listagem de Despesas |
+| [João Wicenth] | Adicionar/Editar Despesas |
+| [Breno+nicolas] | Categorias, Relatórios |
+| [Guilherme Ferreira+Nicolas] | Configurações, UI/UX |
 
 ## 🐛 Troubleshooting
 
