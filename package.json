@@ -1,0 +1,48 @@
+{
+  "name": "app-despesas",
+  "version": "1.0.0",
+  "description": "Aplicativo de Gerenciamento de Despesas Pessoais",
+  "main": "index.js",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "react-native",
+    "despesas",
+    "financeiro"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.0",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/bottom-tabs": "^6.5.14",
+    "@react-navigation/stack": "^6.3.20",
+    "react-native-screens": "^3.26.0",
+    "react-native-safe-area-context": "^4.7.2",
+    "firebase": "^10.5.0",
+    "react-native-vector-icons": "^10.0.0",
+    "react-native-chart-kit": "^6.12.0",
+    "expo": "^49.0.0",
+    "expo-constants": "^14.4.4",
+    "expo-status-bar": "~1.6.0",
+    "react-native-web": "~0.19.6",
+    "react-dom": "18.2.0",
+    "@expo/webpack-config": "^19.0.0",
+    "@react-native-async-storage/async-storage": "1.18.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/preset-env": "^7.23.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "@testing-library/react-native": "12.4.0",
+    "react-test-renderer": "18.2.0"
+  }
+}
