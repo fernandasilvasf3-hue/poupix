@@ -78,7 +78,7 @@ const firebaseConfig = {
 };
 ```
 
-4. **Inicie a aplicação:**
+4. **Inicie a aplicação:** ##ABAIXE O NODE MODULOS TMB!
 
 ```bash
 # Para web
